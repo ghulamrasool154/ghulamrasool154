@@ -1,6 +1,5 @@
 
 
-### Hello My Dear =👋
 __I am *Ghulam Rasool* a Computer Science Student from Virtual University. I am very much interested in contributing for open source. And my career interest is Programming. Always there to help others and to clarify the doubts you have.__
 
 ### My Skills 🚀
