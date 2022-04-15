@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Languages I have used
 
-C++ HTML5 JavaScript Node.js React ReactNative Vue PHP LARAVEL jQuery
+<div style='background-color : 'red'>C++ HTML5 JavaScript Node.js React ReactNative Vue PHP LARAVEL jQuery</div>
 
 Some of the technologies I have worked with
 
