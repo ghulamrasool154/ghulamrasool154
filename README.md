@@ -1,102 +1,60 @@
-## Hey 👋, I'm Ghulam Rasool  
-  
-
-<a href="https://github.com/ghulamrasool154" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ghulamrasool154" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/ghulamrasool154" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ghulamrasool154" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-### Glad to see you here!  
-
-- 🌱 I’m currently learning MERN Stack Developer
- 
-- ❓ Ask me about anything related to the MERN stack and related technologies  
-  
-- ⚡ Fun fact: I use tabs over spaces    
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/woocommerce.png" alt="WooCommerce" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" />  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ghulamrasool154&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulamrasool154&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
 
 <div align="center">
-<img src="https://scontent.flyp6-1.fna.fbcdn.net/v/t39.30808-6/277816764_2870778303219468_2401716023788875462_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHcifaYHV0PbE9HCaB9gXHzA7amu92f-cEDtqa73Z_5wcaElY0KoWbrNsBgnFIUDhgevoEk5GmMGvg99ZunvOLr&_nc_ohc=-qm28_9B9DIAX8z9wrg&_nc_zt=23&_nc_ht=scontent.flyp6-1.fna&oh=00_AT8mYH8eLxhQQdcFlAXmOBOnoyubyq7BywebIXn5eytgSA&oe=625F02C0" align="center" height="" width="100%" />
-</div>  
-  
+<img width="100%" height = "250px" src="https://scontent.flyp6-1.fna.fbcdn.net/v/t39.30808-6/242099187_2730506183913348_1628968947664739374_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEJNjeY9NMPbKzfM4hGwtD-VWmnhebZvepVaaeF5tm96tG1QkgMT71Q40aXLQ49EET34M-WIuotpvO8NL_A4rY9&_nc_ohc=40pSkh4Tt1cAX_B094R&tn=u4oYOpyASFpYZeb9&_nc_zt=23&_nc_ht=scontent.flyp6-1.fna&oh=00_AT8UMAou328BXseKFWOfK3bsOV2llCVPvGSePU_VEBjYHQ&oe=625F7F52" alt="cover" />
+</div>
 
-<br/>  
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ghulamrassool154.ghulamrassool154)
 
-<br/>  
+</p>
+<div size='20px'> Hi! My name is Ghulam Rasool. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-<br />
+- 🔭 I’m currently working on 
 
-----
+- 🌱 I’m currently learning Data Science,AWS,Data Engineering 
+
+- 👯 I’m looking to collaborate on MERN Stack Projet 
+
+- 💬 Talk to me about  JavaScript, MongoDB ,Express JS, React , Node js,  
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/ghulamrassool154?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/ghulamrassool154?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/ghulamrassool154?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/ghulamrassool154?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+<a href= https://github.com/ghulamrassool154?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/ghulamrassool154?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= https://github.com/ghulamrassool154?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/ghulamrassool154?tab=repositories&q=&type=&language=materialize&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/materialize.svg'> </a>
+<a href= https://github.com/ghulamrassool154?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a>
+<a href= https://github.com/ghulamrassool154?tab=repositories&q=&type=&language=firebase&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/ghulamrassool154'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.github.com/ghulamrassool154'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+
+<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
+</a>
+<br>
+
+
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
+![Metrics](https://metrics.lecoq.io/ghulamrassool154?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+
+
+
+<br>
+<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
