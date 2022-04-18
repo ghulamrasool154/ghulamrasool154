@@ -3,8 +3,9 @@
 </div>  
   
 
-### **Hi 👋, I'm Ghulam Rasool MERN Stack Developer**  
-  
+### **Hi 👋, I'm Ghulam Rasool ** 
+
+### ** MERN Stack Developer  ** 
 
 - **🔭 I’m currently working on MERN Stack Developer**  
   
