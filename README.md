@@ -12,7 +12,7 @@
 - **🌱 I’m currently learning MERN Stack and Blockchain**  
   
 
-- **❓ Ask me about anything related to MERN stack and related technologies**  
+- **❓ Ask me about anything related to MERN stack related technologies**  
   
 
 <br/>  
