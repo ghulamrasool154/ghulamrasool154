@@ -9,7 +9,7 @@
 - **🔭 I’m currently working on MERN Stack Developer**  
   
 
-- **🌱 I’m currently learning MERN Stack and Blockchain**  
+- **🌱 I’m currently learning Blockchain**  
   
 
 - **❓ Ask me about anything related to MERN stack related technologies**  
