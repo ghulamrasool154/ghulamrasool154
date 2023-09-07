@@ -9,10 +9,10 @@
 - **🔭 I’m currently working on MERN Stack Developer**  
   
 
-- **🌱 I’m currently learning Blockchain**  
+- **🌱 I’m currently learning AWS and Blockchain**  
   
 
-- **❓ Ask me about anything related to MERN stack related technologies**  
+- **❓ Ask me about anything related to MERN stack-related technologies**  
   
 
 <br/>  
