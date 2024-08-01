@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **grsaddiqui75@gmail.com**
 
-- 📄 Know about my experiences [https://ghulam-rasool.vercel.app/](https://ghulam-rasool.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
