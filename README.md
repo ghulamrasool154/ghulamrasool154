@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ghulamrasool154" target="blank"><img src="https://img.shields.io/twitter/follow/ghulamrasool154?logo=twitter&style=for-the-badge" alt="ghulamrasool154" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Machine Learning**
+- 🌱 I’m currently learning **AWS, Nest Js, AngularJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ghulamrasool154](https://github.com/ghulamrasool154)
 
