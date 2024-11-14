@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghulam Rasool</h1>
 
 
-<h3 align="center">Full Stack Developer (MERN, AWS, Next.js, Nest.js, TypeScript, JavaScript, Angular Js )</h3>
+<h3 align="center">Full Stack Developer (MERN, AWS, Next.js, Nest.js, TypeScript, JavaScript)</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulamrasool154&label=Profile%20views&color=0e75b6&style=flat" alt="ghulamrasool154" /> </p>
