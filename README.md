@@ -1,16 +1,16 @@
-<h3>Hi 👋, I'm Ghulam Rasool</h3>
+<h1>Hi 👋, I'm Ghulam Rasool</h1>
 
 
 <h3>Full Stack Developer (Next.js, Nest.js, TypeScript, JavaScript)</h3>
 
 
-- 🌱 I’m currently learning **AWS, Nest Js, AngularJS and React Native**
+🌱 I’m currently learning **AWS, Nest Js, AngularJS and React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ghulamrasool154](https://github.com/ghulamrasool154)
+👨‍💻 All of my projects are available at [https://github.com/ghulamrasool154](https://github.com/ghulamrasool154)
 
-- 💬 Ask me about **Mongodb, Express, React, Node and NextJs**
+💬 Ask me about **Mongodb, Express, React, Node and NextJs**
 
-- 📫 How to reach me **grsaddiqui75@gmail.com**
+📫 How to reach me **grsaddiqui75@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
