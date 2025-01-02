@@ -8,7 +8,7 @@
 
 👨‍💻 All of my projects are available at [https://github.com/ghulamrasool154](https://github.com/ghulamrasool154)
 
-💬 Ask me about **Mongodb, Express, React, Node and NextJs**
+💬 Ask me about **MERN, MEAN, NEXTJS, NESTJS**
 
 📫 How to reach me **grsaddiqui75@gmail.com**
 
