@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ghulam Rasool</h1>
+<h1 >Hi 👋, I'm Ghulam Rasool</h1>
 
-<h3 align="center">Full Stack Developer | Next.js | Nest.js | TypeScript | JavaScript</h3>
+<h3 >Full Stack Developer | Next.js | Nest.js | TypeScript | JavaScript</h3>
 
 - 🚀 I specialize in **MERN, Next.js, and Nest.js**  
 - 🌱 Currently learning **AI, Machine Learning, Python, AWS Cloud, and React Native**  
