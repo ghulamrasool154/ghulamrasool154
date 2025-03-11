@@ -1,16 +1,18 @@
-<h1>Hi 👋, I'm Ghulam Rasool</h1>
+<h1 align="center">Hi 👋, I'm Ghulam Rasool</h1>
 
+<h3 align="center">Full Stack Developer | Next.js | Nest.js | TypeScript | JavaScript</h3>
 
-<h3>Full Stack Developer (Next.js, Nest.js, TypeScript, JavaScript)</h3>
+- 🚀 I specialize in **MERN, Next.js, and Nest.js**  
+- 🌱 Currently learning **AI, Machine Learning, Python, AWS Cloud, and React Native**  
+- 💡 Passionate about **scalable architectures, performance optimization, and cloud-native solutions**  
+- 🔭 Exploring **AI-driven applications and automation**  
+- 👨‍💻 Check out my projects: [GitHub](https://github.com/ghulamrasool154)  
+- 🌍 Visit my portfolio: [ghulamrasool154.top](https://ghulamrasool154.top)  
+- 💬 Ask me about **MERN, Next.js, Nest.js, and backend development best practices**  
+- 📫 Reach me at **grsaddiqui75@gmail.com**  
+- 📖 Always learning & sharing knowledge about **AI, DevOps, and modern web technologies**  
 
-
-🌱 I’m currently learning **AWS Cloud, Nest Js, AngularJS and React Native**
-
-👨‍💻 All of my projects are available at [https://github.com/ghulamrasool154](https://github.com/ghulamrasool154)
-
-💬 Ask me about **MERN, MEAN, NEXTJS, NESTJS**
-
-📫 How to reach me **grsaddiqui75@gmail.com**
+🚀 Let's build something amazing together!
 
 
 <h3>Connect with me:</h3>
