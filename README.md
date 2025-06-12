@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Ghulam Rasool</h1>
-<h3 >MERN Stack Developer [next-js, nest-js] </h3>
+<h3 >MERN Stack Developer  ( next.js, nest.js ) </h3>
 <h3>Connect with me:</h3>
 <p>
 
