@@ -7,7 +7,7 @@
 - 💡 Passionate about **scalable architectures, performance optimization , and cloud-native solutions**  
 - 🔭 Exploring **AI-driven applications and automation**  
 - 👨‍💻 Check out my projects: [GitHub](https://github.com/ghulamrasool154)  
-- 🌍 Visit my portfolio: [Portfolio](http://grsaddiqui.vercel.app/)  
+- 🌍 Visit my portfolio: [Portfolio](https://www.grsaddiqui.com/)  
 - 💬 Ask me about **MERN, Next.js, Nest.js, and backend development best practices**  
 - 📖 Always learning & sharing knowledge about **AI, DevOps, and modern web technologies**  
 
