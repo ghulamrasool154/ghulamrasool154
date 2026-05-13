@@ -1,6 +1,4 @@
-<h1 >Hi 👋, I'm Ghulam Rasool</h1>
-
-# 💫 About Me:
+# 💫 Ghulam Rasool
 💻 Full Stack Developer | AI Enthusiast | Next.js | Nest.js | TypeScript<br><br>🚀 Specialized in building scalable full-stack applications using MERN, Next.js, Nest.js, TypeScript, and modern cloud technologies<br>🤖 Exploring AI Engineering, Machine Learning, LLM Applications, AI Automation, and Generative AI solutions<br>☁️ Currently learning AWS Cloud, Docker, Kubernetes, Python, and React Native<br><br>⚡ Passionate about:<br>• Scalable Architectures<br>• Performance Optimization<br>• Clean Code & System Design<br>• Cloud-Native Applications<br>• AI-Driven Products & Automation<br><br>🛠️ Tech Stack:<br>Next.js • React • Nest.js • Node.js • Express.js • MongoDB • PostgreSQL • Supabase • TypeScript • JavaScript • Tailwind CSS • Docker • AWS • Python<br><br>🔭 Currently building AI-powered applications and modern SaaS solutions<br><br><br>💬 Ask me about Full Stack Development, MERN Stack, Next.js, Nest.js, Backend Architecture, APIs, AI Integrations, and DevOps basics<br>📚 Always learning, building, and sharing knowledge about AI, Cloud, DevOps, and modern web technologies<br>🚀 Let’s build impactful and scalable products together!<br>
 
 
